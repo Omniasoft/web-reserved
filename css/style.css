@@ -2,7 +2,8 @@ body
 {
 	font-family: Verdana, Arial, Sans-serif;
 	font-size: 12px;
-	background: #F5F5F5;
+	color: #222;
+	background: #FFF;
 	margin: 0;
 }
 
@@ -22,6 +23,12 @@ body
 
 .placeholder hr
 {
+	/* Reset */
+	border: 0px;
+	height: 1px;
+	color: #222;
+	background-color: #222;
+
 	padding: 0px;
 	margin: 5px 0px 5px 0px;
 }
